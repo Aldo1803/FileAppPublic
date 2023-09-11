@@ -1,0 +1,17 @@
+# Node specifics
+node_modules/
+npm-debug.log
+
+# Environment variables and Configuration
+.env
+config.js
+
+# Editor specific
+.vscode/
+*.swp
+*.swo
+*.log
+.DS_Store
+
+# Uploaded files
+uploads/
