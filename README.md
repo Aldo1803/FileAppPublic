@@ -14,8 +14,8 @@ A simple web application built on Node.js to manage and upload files.
 **Clone the Repository**
 
 ```bash
-git clone [Your Repository URL]
-cd [Your Repository Name]
+git clone https://github.com/Aldo1803/FileAppPublic.git
+cd FileAppPublic
 ```
 
 ## Install dependencies
