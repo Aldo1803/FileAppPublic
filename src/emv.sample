@@ -1,0 +1,20 @@
+# Development Environment
+DEV_APP_PORT=3000
+DEV_DB_URL=your_development_database_url
+DEV_AWS_ACCESS_KEY_ID=your_dev_aws_access_key_id
+DEV_AWS_SECRET_ACCESS_KEY=your_dev_aws_secret_access_key
+DEV_S3_BUCKET_NAME=your_dev_aws_bucket_name
+
+# Testing Environment
+TEST_APP_PORT=3001
+TEST_DB_URL=your_testing_database_url
+TEST_AWS_ACCESS_KEY_ID=your_test_aws_access_key_id
+TEST_AWS_SECRET_ACCESS_KEY=your_test_aws_secret_access_key
+TEST_S3_BUCKET_NAME=your_test_aws_bucket_name
+
+# Production Environment
+PORT=3002
+DB_URL=your_production_database_url
+AWS_ACCESS_KEY_ID=your_aws_access_key_id
+AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
+S3_BUCKET_NAME=your_aws_bucket_name
